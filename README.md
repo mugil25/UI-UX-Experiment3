@@ -1,4 +1,4 @@
-# UI-UX-Experiment3
+# UI-UX-Experiment-3
 
 ## Aim:
 
