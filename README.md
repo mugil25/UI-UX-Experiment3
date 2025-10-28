@@ -20,7 +20,8 @@ To perform a heuristic evaluation and comparative analysis of the **Amazon.in** 
 
 ## Output:
 
-<img width="856" height="608" alt="image" src="https://github.com/user-attachments/assets/8f06ce03-89b6-422d-a16b-df897d14897b" />
+<img width="1417" height="848" alt="image" src="https://github.com/user-attachments/assets/2dcd636a-6adc-488f-8d74-675a925735bd" />
+
 
 ### Heuristic Evaluation Summary
 
